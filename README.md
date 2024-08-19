@@ -10,7 +10,7 @@ software engineering is the process of applying engineering principles, methods 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-ne milestone is the development of programming languages, the second milestone is the development of the agile methodology in the 2000s and the third is the development of software engineering as a discipline in the 1970s
+one milestone is the development of programming languages, the second milestone is the development of the agile methodology in the 2000s and the third is the development of software engineering as a discipline in the 1970s
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -25,7 +25,6 @@ maintaining - continuous support and updating the software for continuity and sm
 
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology is sequential and rigid and thus follows a specific predetermined path during development while the agile methodology  is iterative and flexible thus during development it is easy to adapt in case of changes in the development cycle. Waterfall is best used when the project is being performed under a strict budget and timeline while agile is best used when the project is evolving 
 
